@@ -89,3 +89,6 @@ touch inser_data.sh
 mv inser_data.sh insert_data.sh
 touch insert_data.sh
 chmod +x insert_data.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+./insert_data.sh
